@@ -90,11 +90,15 @@ OtelYonetimSistemi
 ---
 
 Projeyi Klonlayın
-git clone https://github.com/Melekbl/CRM-PROJES-
+1 git clone https://github.com/Melekbl/CRM-PROJES-
+
+
 2️⃣ Visual Studio ile Açın
 CRMProjesi1.sln dosyasını açın
+
 3️⃣ Veritabanı Ayarları
 App.config içindeki MySQL bağlantı bilgilerini düzenleyin
+
 4️⃣ Veritabanı Tabloları
 MySQL üzerinde aşağıdaki tabloların oluşturulması gerekmektedir:
 
