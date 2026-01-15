@@ -89,31 +89,25 @@ OtelYonetimSistemi
 
 ---
 
-## 🚀 Kurulum
-
-1️⃣ Projeyi Klonlayın
-
-```bash
+Projeyi Klonlayın
 git clone https://github.com/Melekbl/CRM-PROJES-
-
 2️⃣ Visual Studio ile Açın
-`OtelYonetim.sln` dosyasını açın
-
+CRMProjesi1.sln dosyasını açın
 3️⃣ Veritabanı Ayarları
-`App.config` içindeki MySQL bağlantı bilgilerini güncelleyin
-
+App.config içindeki MySQL bağlantı bilgilerini düzenleyin
 4️⃣ Veritabanı Tabloları
+MySQL üzerinde aşağıdaki tabloların oluşturulması gerekmektedir:
 
-* kullanicilar
-* musteriler
-* personeller
-*kullanıcılar
-* hizmetler
+kullanicilar
+musteriler
+personeller
+hizmetler
+talepler
 
 5️⃣ Çalıştırın
-Visual Studio üzerinden **F5** ile başlatın
-
----
+Visual Studio üzerinden F5 ile projeyi başlatın
+🎯 Projenin Amaçları
+✅ Müşteri ve hizmet süreçlerini dijitalleştirmek ✅ İşletme içi iş akışını düzenlemek ✅ Manuel hataları azaltmak ✅ Gerçek hayata uygun kurumsal bir CRM sistemi geliştirmek ✅ Katmanlı mimariyi uygulamalı olarak öğrenmek
 
 ## 🎯 Amaç
 
