@@ -1,0 +1,786 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\dal\\talepdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:dal\\talepdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\yenikullaniciform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\yenikullaniciform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\yenikullaniciform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\yenikullaniciform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|c:\\users\\balci\\onedrive\\desktop\\deneme\\crm.proje1\\ui\\taleplisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\taleplisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\taleplisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\taleplisteleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\sifremiunuttum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\sifremiunuttum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\sifremiunuttum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\sifremiunuttum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\raporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\raporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\raporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\raporform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\musteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\musteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\musteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\musteriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\hizmetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\hizmetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\hizmetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\hizmetform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\destekform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\destekform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\destekform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\destekform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\cagriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\cagriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\cagriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\cagriform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\service\\talepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:service\\talepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\service\\personelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:service\\personelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\service\\musteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:service\\musteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\service\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:service\\kullaniciservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\service\\hizmetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:service\\hizmetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\domain\\taleplistedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:domain\\taleplistedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\domain\\talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:domain\\talep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\domain\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:domain\\personel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\domain\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:domain\\musteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\domain\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:domain\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\domain\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:domain\\hizmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|c:\\users\\balci\\onedrive\\desktop\\deneme\\crm.proje1\\dal\\rapordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:dal\\rapordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\dal\\personeldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:dal\\personeldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\dal\\musteridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:dal\\musteridal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\dal\\kullanicidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:dal\\kullanicidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\dal\\hizmetdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:dal\\hizmetdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\dal\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:dal\\dbbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\resources\\public-service.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:resources\\public-service.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\domain\\rapordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:domain\\rapordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\ui\\musteriform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:ui\\musteriform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\resources\\customer.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{757C763C-7692-434B-A02C-1C4EBE82A0EC}|CRM.Proje1.csproj|solutionrelative:resources\\customer.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1500,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YeniKullaniciForm.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\YeniKullaniciForm.cs",
+              "RelativeDocumentMoniker": "UI\\YeniKullaniciForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\YeniKullaniciForm.cs",
+              "RelativeToolTip": "UI\\YeniKullaniciForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:47:19.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "UI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:54:51.514Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SifremiUnuttum.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\SifremiUnuttum.cs",
+              "RelativeDocumentMoniker": "UI\\SifremiUnuttum.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\SifremiUnuttum.cs",
+              "RelativeToolTip": "UI\\SifremiUnuttum.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T18:04:02.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TalepDAL.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\TalepDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\TalepDAL.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\TalepDAL.cs",
+              "RelativeToolTip": "DAL\\TalepDAL.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwFgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:46:29.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YeniKullaniciForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\YeniKullaniciForm.cs",
+              "RelativeDocumentMoniker": "UI\\YeniKullaniciForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\YeniKullaniciForm.cs [Design]",
+              "RelativeToolTip": "UI\\YeniKullaniciForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:46:47.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TalepListeleForm.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\TalepListeleForm.cs",
+              "RelativeDocumentMoniker": "UI\\TalepListeleForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\TalepListeleForm.cs",
+              "RelativeToolTip": "UI\\TalepListeleForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:48:45.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SifremiUnuttum.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\SifremiUnuttum.cs",
+              "RelativeDocumentMoniker": "UI\\SifremiUnuttum.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\SifremiUnuttum.cs [Design]",
+              "RelativeToolTip": "UI\\SifremiUnuttum.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:47:57.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RaporForm.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\RaporForm.cs",
+              "RelativeDocumentMoniker": "UI\\RaporForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\RaporForm.cs",
+              "RelativeToolTip": "UI\\RaporForm.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAAAOEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T18:11:31.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TalepListeleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\TalepListeleForm.cs",
+              "RelativeDocumentMoniker": "UI\\TalepListeleForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\TalepListeleForm.cs [Design]",
+              "RelativeToolTip": "UI\\TalepListeleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T20:25:20.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RaporForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\RaporForm.cs",
+              "RelativeDocumentMoniker": "UI\\RaporForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\RaporForm.cs [Design]",
+              "RelativeToolTip": "UI\\RaporForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T18:11:29.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PersonelForm.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\PersonelForm.cs",
+              "RelativeDocumentMoniker": "UI\\PersonelForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\PersonelForm.cs",
+              "RelativeToolTip": "UI\\PersonelForm.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:28:32.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonelForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\PersonelForm.cs",
+              "RelativeDocumentMoniker": "UI\\PersonelForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\PersonelForm.cs [Design]",
+              "RelativeToolTip": "UI\\PersonelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:27:13.911Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MusteriForm.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\MusteriForm.cs",
+              "RelativeDocumentMoniker": "UI\\MusteriForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\MusteriForm.cs",
+              "RelativeToolTip": "UI\\MusteriForm.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:09:41.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MusteriForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\MusteriForm.cs",
+              "RelativeDocumentMoniker": "UI\\MusteriForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\MusteriForm.cs [Design]",
+              "RelativeToolTip": "UI\\MusteriForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:52:09.812Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\LoginForm.cs",
+              "RelativeToolTip": "UI\\LoginForm.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:20:43.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HizmetForm.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\HizmetForm.cs",
+              "RelativeDocumentMoniker": "UI\\HizmetForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\HizmetForm.cs",
+              "RelativeToolTip": "UI\\HizmetForm.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:41:28.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HizmetForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\HizmetForm.cs",
+              "RelativeDocumentMoniker": "UI\\HizmetForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\HizmetForm.cs [Design]",
+              "RelativeToolTip": "UI\\HizmetForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:38:27.113Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DestekForm.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\DestekForm.cs",
+              "RelativeDocumentMoniker": "UI\\DestekForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\DestekForm.cs",
+              "RelativeToolTip": "UI\\DestekForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:43:48.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DestekForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\DestekForm.cs",
+              "RelativeDocumentMoniker": "UI\\DestekForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\DestekForm.cs [Design]",
+              "RelativeToolTip": "UI\\DestekForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:42:31.752Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CagriForm.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\CagriForm.cs",
+              "RelativeDocumentMoniker": "UI\\CagriForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\CagriForm.cs",
+              "RelativeToolTip": "UI\\CagriForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:25:49.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CagriForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\CagriForm.cs",
+              "RelativeDocumentMoniker": "UI\\CagriForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\CagriForm.cs [Design]",
+              "RelativeToolTip": "UI\\CagriForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:24:02.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\AdminForm.cs",
+              "RelativeDocumentMoniker": "UI\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\AdminForm.cs",
+              "RelativeToolTip": "UI\\AdminForm.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:45:25.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\AdminForm.cs",
+              "RelativeDocumentMoniker": "UI\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\AdminForm.cs [Design]",
+              "RelativeToolTip": "UI\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:02:25.15Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TalepService.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Service\\TalepService.cs",
+              "RelativeDocumentMoniker": "Service\\TalepService.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Service\\TalepService.cs",
+              "RelativeToolTip": "Service\\TalepService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:47:43.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PersonelService.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Service\\PersonelService.cs",
+              "RelativeDocumentMoniker": "Service\\PersonelService.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Service\\PersonelService.cs",
+              "RelativeToolTip": "Service\\PersonelService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:05:27.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MusteriService.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Service\\MusteriService.cs",
+              "RelativeDocumentMoniker": "Service\\MusteriService.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Service\\MusteriService.cs",
+              "RelativeToolTip": "Service\\MusteriService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:04:35.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "KullaniciService.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Service\\KullaniciService.cs",
+              "RelativeDocumentMoniker": "Service\\KullaniciService.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Service\\KullaniciService.cs",
+              "RelativeToolTip": "Service\\KullaniciService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:04:06.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HizmetService.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Service\\HizmetService.cs",
+              "RelativeDocumentMoniker": "Service\\HizmetService.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Service\\HizmetService.cs",
+              "RelativeToolTip": "Service\\HizmetService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:03:52.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TalepListeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\TalepListeDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\TalepListeDTO.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\TalepListeDTO.cs",
+              "RelativeToolTip": "Domain\\TalepListeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T20:44:55.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Talep.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\Talep.cs",
+              "RelativeDocumentMoniker": "Domain\\Talep.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\Talep.cs",
+              "RelativeToolTip": "Domain\\Talep.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T17:36:52.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Personel.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\Personel.cs",
+              "RelativeDocumentMoniker": "Domain\\Personel.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\Personel.cs",
+              "RelativeToolTip": "Domain\\Personel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:56:52.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Musteri.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\Musteri.cs",
+              "RelativeDocumentMoniker": "Domain\\Musteri.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\Musteri.cs",
+              "RelativeToolTip": "Domain\\Musteri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:03:35.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\Kullanici.cs",
+              "RelativeDocumentMoniker": "Domain\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\Kullanici.cs",
+              "RelativeToolTip": "Domain\\Kullanici.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:56:54.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Hizmet.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\Hizmet.cs",
+              "RelativeDocumentMoniker": "Domain\\Hizmet.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\Hizmet.cs",
+              "RelativeToolTip": "Domain\\Hizmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:03:20.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RaporDAL.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\RaporDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\RaporDAL.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\RaporDAL.cs",
+              "RelativeToolTip": "DAL\\RaporDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T17:50:35.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MusteriDAL.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\MusteriDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\MusteriDAL.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\MusteriDAL.cs",
+              "RelativeToolTip": "DAL\\MusteriDAL.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:56:58.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HizmetDAL.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\HizmetDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HizmetDAL.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\HizmetDAL.cs",
+              "RelativeToolTip": "DAL\\HizmetDAL.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:57:54.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DbBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\DbBaglanti.cs",
+              "RelativeDocumentMoniker": "DAL\\DbBaglanti.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\DbBaglanti.cs",
+              "RelativeToolTip": "DAL\\DbBaglanti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:00:44.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "KullaniciDAL.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\KullaniciDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\KullaniciDAL.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\KullaniciDAL.cs",
+              "RelativeToolTip": "DAL\\KullaniciDAL.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T10:59:11.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PersonelDAL.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\PersonelDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\PersonelDAL.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\DAL\\PersonelDAL.cs",
+              "RelativeToolTip": "DAL\\PersonelDAL.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T07:41:04.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RaporDTO.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\RaporDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\RaporDTO.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Domain\\RaporDTO.cs",
+              "RelativeToolTip": "Domain\\RaporDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T21:44:22.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "public-service.png - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Resources\\public-service.png",
+              "RelativeDocumentMoniker": "Resources\\public-service.png",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Resources\\public-service.png - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "Resources\\public-service.png - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-14T21:44:25.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-31T18:20:40.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MusteriForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\MusteriForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\MusteriForm.Designer.cs",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\UI\\MusteriForm.Designer.cs",
+              "RelativeToolTip": "UI\\MusteriForm.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwFwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:21:06.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "customer.png - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Resources\\customer.png",
+              "RelativeDocumentMoniker": "Resources\\customer.png",
+              "ToolTip": "C:\\Users\\balci\\OneDrive\\Desktop\\deneme\\CRM.Proje1\\Resources\\customer.png - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "Resources\\customer.png - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-01-13T20:49:10.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
