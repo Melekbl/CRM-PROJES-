@@ -46,10 +46,11 @@ Projede **katmanlı mimari (N-Tier)** kullanılmış, böylece sürdürülebilir
 
 ### 📊 Raporlama & Dashboard
 
-* Tarih aralığına göre raporlama
-* Oda/hizmet ve durum bazlı filtreleme
-* İşletme performansını analiz etmeye yönelik ekranlar
-
+Talep Türüne Göre Hizmet Yoğunluğu
+Ortalama Çözüm Süresi
+Personel Performans Raporu
+Müşteri Bazlı Talep Raporu
+Müşteri Memnuniyet Raporu
 ---
 
 ## 🏗️ Mimari Yapı
